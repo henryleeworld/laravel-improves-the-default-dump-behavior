@@ -1,4 +1,4 @@
-# Laravel 8 改善預設除錯輸出
+# Laravel 9 改善預設除錯輸出
 
 引入 glhd 的 laravel-dumper 套件來擴增改善預設除錯輸出。
 
