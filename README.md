@@ -1,4 +1,4 @@
-# Laravel 9 改善預設除錯輸出
+# Laravel 10 改善預設除錯輸出
 
 引入 glhd 的 laravel-dumper 套件來擴增改善預設除錯輸出。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/7UZTbmz.png)
+![](https://i.imgur.com/IiEWSpe.png)
 > 可以期待增強的除錯輸出
