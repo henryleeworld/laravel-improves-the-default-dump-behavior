@@ -1,6 +1,6 @@
-# Laravel 10 改善預設除錯輸出
+# Laravel 11 改善預設除錯輸出
 
-引入 glhd 的 laravel-dumper 套件來擴增改善預設除錯輸出。
+引入 alissn 的 laravel-dumper 套件來擴增改善預設除錯輸出。
 
 ## 使用方式
 - 把整個專案複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/IiEWSpe.png)
+![](https://i.imgur.com/5FxEnnO.png)
 > 可以期待增強的除錯輸出
