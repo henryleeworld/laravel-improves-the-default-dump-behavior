@@ -1,4 +1,4 @@
-# Laravel 11 改善預設除錯輸出
+# Laravel 12 改善預設除錯輸出
 
 引入 alissn 的 laravel-dumper 套件來擴增改善預設除錯輸出。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/5FxEnnO.png)
+![](https://i.imgur.com/C7BAMK0.png)
 > 可以期待增強的除錯輸出
